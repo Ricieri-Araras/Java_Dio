@@ -63,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.one.digitalinnovation.List.ExemploList">
+  <component name="RunManager" selected="Application.ExemploLinkedHashSet">
     <configuration name="ComparatorExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.comparators.ComparatorExemploList" />
       <module name="JavaCollections" />
@@ -77,7 +77,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.List.ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ExemploHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.set.ExemploHashSet" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploLinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.set.ExemploLinkedHashSet" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.queue.ExemploLinkedList" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.List.ExemploVector" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one.digitalinnovation.List.ExemploList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.List.ExemploList" />
       <module name="JavaCollections" />
       <extension name="coverage">
@@ -92,7 +144,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.one.digitalinnovation.List.ExemploList" />
+        <item itemvalue="Application.ExemploLinkedHashSet" />
+        <item itemvalue="Application.ExemploHashSet" />
+        <item itemvalue="Application.ExemploVector" />
         <item itemvalue="Application.ComparatorExemploList" />
       </list>
     </recent_temporary>
@@ -127,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659843089032</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aprendendo Java Collections com DigitalInnovationOne">
+      <created>1659996636750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659996636750</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
