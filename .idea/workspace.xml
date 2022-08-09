@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660003581699</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet">
+      <created>1660004172489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660004172489</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
