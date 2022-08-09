@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d903248-62ce-49a3-9261-6334a456ac14" name="Changes" comment="Aprendendo Java Collections com DigitalInnovationOne">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d903248-62ce-49a3-9261-6334a456ac14" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659996636750</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet">
+      <created>1660003581699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660003581699</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +208,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo Java Collections com DigitalInnovationOne" />
+    <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet" />
   </component>
 </project>
