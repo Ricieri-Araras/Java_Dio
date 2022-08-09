@@ -4,8 +4,10 @@
     <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/List/ExemploList.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/List/ExemploVector.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/comparators/ComparatorExemploList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/map/ExemploHashMap.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/queue/ExemploLinkedList.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/set/ExemploHashSet.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/set/ExemploLinkedHashSet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/one/digitalinnovation/set/ExemploTreeSet.java" charset="UTF-8" />
   </component>
 </project>
