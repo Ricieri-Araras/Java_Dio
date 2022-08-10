@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d903248-62ce-49a3-9261-6334a456ac14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/map/ExemploHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/set/ExemploTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/map/ExemploTreeMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -72,7 +71,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploHashMap">
+  <component name="RunManager" selected="Application.ExemploTreeMap">
     <configuration name="ComparatorExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.comparators.ComparatorExemploList" />
       <module name="JavaCollections" />
@@ -86,7 +85,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ExemploHashMap" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.map.ExemploHashMap" />
       <module name="JavaCollections" />
       <extension name="coverage">
@@ -138,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExemploTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.map.ExemploTreeMap" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExemploTreeSet" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.set.ExemploTreeSet" />
       <module name="JavaCollections" />
@@ -179,7 +191,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExemploHashMap" />
+        <item itemvalue="Application.ExemploTreeMap" />
         <item itemvalue="Application.ExemploHashSet" />
         <item itemvalue="Application.ExemploVector" />
         <item itemvalue="Application.ComparatorExemploList" />
@@ -244,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660004635646</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap,">
+      <created>1660016751054</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660016751054</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +280,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne" />
     <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet" />
+    <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap," />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap," />
   </component>
 </project>
