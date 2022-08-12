@@ -66,6 +66,17 @@ public class ExemploTreeMap {
 
         System.out.println("Árvore atualizada: "+ treeCapitais);
 
+        System.out.println("*** Exibe Cada Capital e UF com Iterator ***");
+
+        Iterator<String> navegador = treeCapitais.keySet().iterator();
+
+        while (navegador.hasNext()) {
+
+            String chave = navegador.next();
+            System.out.println(treeCapitais.get(chave) + " (" + chave + ")");
+        }
+        System.out.println();
+
         Map.Entry<String, String> galhoCapital = treeCapitais.floorEntry("RT");
 
         System.out.println("Exibe um item da árvore salvo na variável 'galhoCapital <='RT'(parâmetro): "+ galhoCapital);
@@ -78,8 +89,6 @@ public class ExemploTreeMap {
         System.out.println(treeCapitais);
 
         System.out.println("*** Navegando na árvore através do Iterator + while ***");
-
-        Iterator<String> navegador = treeCapitais.keySet().iterator();
 
         while (navegador.hasNext()){
 
