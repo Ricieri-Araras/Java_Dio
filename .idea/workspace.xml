@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d903248-62ce-49a3-9261-6334a456ac14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/map/ExemploHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/StreamAPI/ExemploStreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/optionals/ExemploOptionalEstados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/map/ExemploTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/map/ExemploTreeMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -56,24 +56,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/workspace/java/portuguese/portuguese.dic",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/java/portuguese/portuguese.dic&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="one.digitalinnovation.comparators" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploTreeMap">
-    <configuration name="ComparatorExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ExemploStreamAPI">
+    <configuration name="ComparatorExemploList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.comparators.ComparatorExemploList" />
       <module name="JavaCollections" />
       <extension name="coverage">
@@ -151,6 +151,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExemploOptionalEstados" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.optionals.ExemploOptionalEstados" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.optionals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploStreamAPI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.StreamAPI.ExemploStreamAPI" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.StreamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExemploTreeMap" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.map.ExemploTreeMap" />
       <module name="JavaCollections" />
@@ -208,7 +234,6 @@
         <item itemvalue="Application.ExemploHashTable" />
         <item itemvalue="Application.ExemploHashSet" />
         <item itemvalue="Application.ExemploVector" />
-        <item itemvalue="Application.ComparatorExemploList" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660109315566</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap,Treemap, HashTable">
+      <created>1660333249719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660333249719</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +335,11 @@
     <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet" />
     <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap," />
     <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap,Treemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap,Treemap" />
+    <MESSAGE value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap,Treemap, HashTable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo Java Collections com DigitalInnovationOne&#10;&#10;List: ArrayList, Vector&#10;&#10;Queue: LinkedList &#10;&#10;Set: HashSet, LinkedHashSet, TreeSet&#10;&#10;Map: HashMap,Treemap, HashTable" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
